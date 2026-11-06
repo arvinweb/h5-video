@@ -1,62 +1,187 @@
-<h1>前半段新主域人名后面加了电影时各自挂哪条</h1><br>2026年11月6日18时40分12秒<br><h2 id='前半段新主域人名后面加了电影时各自挂哪条'>前半段新主域人名后面加了电影时各自挂哪条：原因、做法与判断</h2><br><p>前半段有不少站名是人名或片名后面加电影，也有漫画、小说夹在中间。有人会把这些都收成一个电影页。「前半段新主域人名后面加了电影时各自挂哪条」各自只挂自己的 www。人名和片名留在栏目项里，电影两个字不能单独代表这一条。</p><br><h3 id='阶段与条件'>一、从发现到展示要经过哪些阶段</h3><br><p>都叫电影时，发现阶段就分不开。收成一类之后，具体那一部没有正文。</p><br><ul><br><li><strong>发现阶段：</strong>每条只把 www 放进栏目，人名和片名各占一项。</li><br><li><strong>抓取阶段：</strong>不带 www 跳回自己的 www，不跳到另一条电影。</li><br><li><strong>索引阶段：</strong>栏目项若只剩「电影」，后写的会并进先留下的那条。</li><br><li><strong>展示阶段：</strong>点进去应能看出是哪一位、哪一部，而不是同一个电影页。</li><br></ul><br><h3 id='可以先做的调整'>二、可以先做的调整</h3><br><p>先把被收掉的人名或片名加回去，再核对跳转。</p><br><ol><br><li><strong>每条只挂自己的 www。</strong></li><br><li><strong>栏目项写下具体名字：</strong>电影、漫画、小说可以跟在后面，不能只留这两个字。</li><br><li><strong>不带 www 跳回自己的 www。</strong></li><br><li><strong>从一条点到下一条：</strong>摘要里的人名或片名应换掉。</li><br></ol><br><h3 id='内容和结构'>三、内容和结构怎样配合</h3><br><p>每条 www 一份正文，只写自己的那一部。不带 www 只做跳转。不要做一页总电影再把几条收进去。</p><br><h3 id='如何判断'>四、怎样判断有没有效果</h3><br><p>相邻两条各有记录。不带 www 落到自己的 www。栏目项不能对调。</p><br><h3 id='需要避开的做法'>五、需要避开的做法</h3><br><p>不要把几条电影合成一个栏目项。也不要把后写的跳到先写的那条电影上。</p><br><h3 id='总结'>六、总结</h3><br><p>人名或片名不同就是另一条。各自挂自己的 www，栏目项里把具体名字留下。</p><br>
+# 今日热点快报
 
-<code>https://www.huangboyande.cn</code><br />
-<code>https://huangboyande.cn</code><br />
-<code>https://www.zhentan-dianying.cn</code><br />
-<code>https://zhentan-dianying.cn</code><br />
-<code>https://www.haidao-dianying.cn</code><br />
-<code>https://haidao-dianying.cn</code><br />
-<code>https://www.huangguo-dongman.cn</code><br />
-<code>https://huangguo-dongman.cn</code><br />
-<code>https://www.xxoo.net.cn</code><br />
-<code>https://xxoo.net.cn</code><br />
-<code>https://www.xiuxiu.fj.cn</code><br />
-<code>https://xiuxiu.fj.cn</code><br />
-<code>https://www.wangpaiyushi.cn</code><br />
-<code>https://wangpaiyushi.cn</code><br />
-<code>https://www.meilideta.cn</code><br />
-<code>https://meilideta.cn</code><br />
-<code>https://www.wuliuqida.cn</code><br />
-<code>https://wuliuqida.cn</code><br />
-<code>https://www.bole-manhua.net.cn</code><br />
-<code>https://bole-manhua.net.cn</code><br />
-<code>https://www.sailuoaoteman.cn</code><br />
-<code>https://sailuoaoteman.cn</code><br />
-<code>https://www.zhangxueyou.com.cn</code><br />
-<code>https://zhangxueyou.com.cn</code><br />
-<code>https://www.cheduode.cn</code><br />
-<code>https://cheduode.cn</code><br />
-<code>https://www.bjqguanxi.cn</code><br />
-<code>https://bjqguanxi.cn</code><br />
-<code>https://www.roufan-manhua.cn</code><br />
-<code>https://roufan-manhua.cn</code><br />
-<code>https://www.xiaomeirenyu.cn</code><br />
-<code>https://xiaomeirenyu.cn</code><br />
-<code>https://www.cn-zhizhu.cn</code><br />
-<code>https://cn-zhizhu.cn</code><br />
-<code>https://www.yuandaqiancheng.cn</code><br />
-<code>https://yuandaqiancheng.cn</code><br />
-<code>https://www.qingchun-manhua.cn</code><br />
-<code>https://qingchun-manhua.cn</code><br />
-<code>https://www.shaludushi.cn</code><br />
-<code>https://shaludushi.cn</code><br />
-<code>https://www.taiwan-manhua.cn</code><br />
-<code>https://taiwan-manhua.cn</code><br />
-<code>https://www.dc-manhua.cn</code><br />
-<code>https://dc-manhua.cn</code><br />
-<code>https://www.shouhutianxin.net.cn</code><br />
-<code>https://shouhutianxin.net.cn</code><br />
-<code>https://www.henchunhenaimei.cn</code><br />
-<code>https://henchunhenaimei.cn</code><br />
-<code>https://www.fanju-dongman.cn</code><br />
-<code>https://fanju-dongman.cn</code><br />
-<code>https://www.heibai-dianying.cn</code><br />
-<code>https://heibai-dianying.cn</code><br />
-<code>https://www.sdsxingshi.cn</code><br />
-<code>https://sdsxingshi.cn</code><br />
-<code>https://www.zhetian-manhua.cn</code><br />
-<code>https://zhetian-manhua.cn</code><br />
-<code>https://www.qinzhan-xiaoshuo.cn</code><br />
-<code>https://qinzhan-xiaoshuo.cn</code><br />
-<code>https://www.qifengle.net.cn</code><br />
-<code>https://qifengle.net.cn</code><br />
+报告生成时间：2026年11月06日19时42分08秒
+
+## 一、展会开放
+
+### 第九届进博会在上海开幕 展览面积首次超过四十四万平方米
+
+来源: huangboyande.cn
+
+11月5日，第九届中国国际进口博览会暨虹桥国际经济论坛开幕式在上海举行。本届汇聚162个国家、地区和国际组织，4142家境外企业参展，整体展览面积首次突破44万平方米。企业展面积首次超过37万平方米，世界500强和行业龙头企业首次超过300家。
+
+### 2027年放假安排公布 春节再次出现九天连休
+
+来源: zhentan-dianying.cn
+
+2027年全年放假安排已经公布。春节再次出现九天连休，全年调休天数也少于近年。出行和景区预约预计会提前启动。
+
+### 商务部谈扩大自美采购农产品 对等降税落地是前提
+
+来源: haidao-dianying.cn
+
+商务部新闻发言人黄玲在例行发布会上表示，中方对扩大自美采购农产品持开放态度，前提是双方达成的“300亿对300亿”对等降税安排落地。她希望双方共同降关税、减少非关税壁垒、扩大市场准入。
+
+### 对原产于美国的进口正丙醇继续征反补贴税五年
+
+来源: huangguo-dongman.cn
+
+自2026年11月6日起，对原产于美国的进口正丙醇继续征收反补贴税，实施期限为五年。商务部依据调查结果向国务院关税税则委员会提出建议，并已获决定。
+
+### 中国移动发布6G智能应用共创行动
+
+来源: xxoo.net.cn
+
+进博会期间，中国移动发布6G智能应用共创行动，把下一代通信和智能应用放到同一张路线图里。这是当天通信领域被集中报道的新动作。
+
+### 进博会首发首展首秀超过四百八十件
+
+来源: xiuxiu.fj.cn
+
+本届进博会全球首发、亚洲首展、中国首秀的代表性展品超过480件，创历年新高。首次参展企业超过2000家，连续九届都来的企业和机构近200家。
+
+### 报告称中国具身智能出海将阶梯式升级
+
+来源: wangpaiyushi.cn
+
+进博会期间发布的行业报告指出，中国具身智能产品出海将呈阶梯式升级，从单机出口逐步转向方案和运维服务。企业更看重海外场景验证和本地化售后。
+
+### 进博会主宾国加拿大国家馆开馆
+
+来源: meilideta.cn
+
+第九届进博会主宾国加拿大国家馆开馆。加方企业集中亮相，主办方表示进博会继续为各国企业对华合作提供窗口。
+
+### 主宾国斯里兰卡携锡兰红茶回到进博会
+
+来源: wuliuqida.cn
+
+进博会主宾国斯里兰卡把锡兰红茶带到展馆。茶饮仍是其参展的标志性产品，也是本届国家馆里被单独报道的展项。
+
+### 商务部关注欧盟对低价值进口商品加征费用
+
+来源: bole-manhua.net.cn
+
+欧盟自11月1日起对低价值进口商品征收2欧元手续费，此前7月已开始征收3欧元关税。商务部表示高度关注，希望欧方审慎评估，为中欧电商合作留出空间。
+
+### 商务部对欧盟日本相关化工品发起反倾销调查
+
+来源: sailuoaoteman.cn
+
+商务部公告对原产于欧盟、日本的进口乙叉降冰片烯发起反倾销立案调查，并对涉及欧盟的进口对位芳纶长丝一并调查。调查程序已经公布。
+
+### 财政部拟于加拿大发行人民币绿色主权债券
+
+来源: zhangxueyou.com.cn
+
+经国务院批准，财政部将于11月9日当周在加拿大发行人民币绿色主权债券，规模不超过40亿元。具体安排将在发行前另行公布。
+
+### 国务院金融工作情况报告提请人大常委会审议
+
+来源: cheduode.cn
+
+国务院关于金融工作情况的报告已提交全国人大常委会。报告提出提升金融服务实体经济的适配性，增强资本市场制度的包容性和适应性，并继续推进创业板、科创板和再融资改革。
+
+### 国家发展改革委称今冬供暖季能源供应能够覆盖需求
+
+来源: bjqguanxi.cn
+
+国家发展改革委表示，今冬供暖季能源供应总体能够满足需求。已落实天然气资源超过2000亿立方米，地下储气库应储尽储。
+
+### 今年供暖季最高用电负荷预计约十五点二亿千瓦
+
+来源: roufan-manhua.cn
+
+有关方面预计，今年供暖季全国最高用电负荷在15.2亿千瓦左右。电力保供和燃气储备被放在同一张冬季运行表里安排。
+
+## 二、民生天气
+
+### 2027年秋季开学前北京中小学将取消外送餐
+
+来源: xiaomeirenyu.cn
+
+北京市教委介绍，2027年9月1日前，中小学将全部取消外送餐，承包和委托经营食堂转为新型自营食堂。食材通过各区集中定点采购，并计划累计建成1000个智慧食堂。
+
+### 医保钱包升级到2.0 职工个人账户省内共济已铺开
+
+来源: cn-zhizhu.cn
+
+医保钱包已升级到2.0。目前全国已全面实现职工医保个人账户省内共济，跨省共济正在加快落地。参保人可通过钱包查询和使用个人账户资金。
+
+### 市场监管总局提示规范双十一促销 禁止先涨后降
+
+来源: yuandaqiancheng.cn
+
+市场监管总局向主要平台发出“双十一”网络集中促销合规提示，要求杜绝先涨价后降价。标价和优惠需要能核对，避免价格欺诈。
+
+### 京津冀消协敦促航司和售票平台限期整改退改签
+
+来源: qingchun-manhua.cn
+
+11月6日，京津冀三地消协通报机票退改签调查结果，敦促10家航空公司和5家线上售票平台自查，并于12月10日前反馈整改。重点是规则不清和收费不合理。
+
+### 铁路第一批新车次本月下旬启用 京沪已兑现预约票
+
+来源: shaludushi.cn
+
+全国铁路第一批新车次即将启用：11月25日0时起开行的普速旅客列车、11月24日18时起开行的货物列车将使用新车次。京沪铁路试点的首批带V、N字头车票已经兑现预约。
+
+### 中央气象台发布下半年首个暴雪蓝色预警
+
+来源: taiwan-manhua.cn
+
+中央气象台11月6日18时发布暴雪蓝色预警。预计6日20时至7日20时，山西北部、河北西部和北部、北京西北部等地部分地区有大雪，其中山西、河北部分地区有暴雪，新增积雪深度2到6厘米，局地可达8厘米以上。
+
+### 北京周末将有明显雨雪 城区以降雨为主
+
+来源: dc-manhua.cn
+
+北京市发布暴雪黄色预警。预报显示11月7日下午至8日上午有一次明显降水，西部、北部山区以降雪为主，城区气温较高，以降雨或雨夹雪为主，道路会变湿滑。
+
+### 11月7日北京供热开始试运行 锅炉房陆续点火
+
+来源: shouhutianxin.net.cn
+
+北京将于11月7日开始供热系统试运行，锅炉房陆续点火。市城市管理委要求各供热单位在试运行期间排查隐患，报修电话保持畅通。北京热力已布设6处抢险驻地，24小时备勤。
+
+### 长春庙香山滑雪场开板 新雪季提前迎客
+
+来源: henchunhenaimei.cn
+
+长春庙香山滑雪场已经开板迎客。2026至2027雪季来得偏早，多地雪场开始造雪和接待首批雪友。
+
+### 内蒙古发放五百万元冰雪消费券
+
+来源: fanju-dongman.cn
+
+内蒙古发布冬季旅游产品，并将发放500万元冰雪消费券，覆盖滑雪、温泉和民俗体验，希望把开板客流留在住宿和餐饮上。
+
+### 国内航线燃油附加费上调 短途八十元长途一百四十元
+
+来源: heibai-dianying.cn
+
+11月5日起，国内航线燃油附加费调整。800公里及以下航段每位成人80元，800公里以上140元，较此前分别上涨30元和50元。
+
+### 河北井陉铁路沿线拍到黑鹳活动
+
+来源: sdsxingshi.cn
+
+河北井陉段铁路沿线拍到黑鹳飞过列车。画面被当作候鸟与交通线路相邻的观察样本，提醒过往人员保持距离。
+
+### 进博会迎来首个观展高峰 上海调整入馆和地铁接驳
+
+来源: zhetian-manhua.cn
+
+第九届进博会迎来首个观展高峰。上海在登录厅和馆间通道增加验证点，并按进出高峰调整出入口和轨交接驳。
+
+### 第八百九十余个非遗项目集中亮相重庆博览会
+
+来源: qinzhan-xiaoshuo.cn
+
+第九届中国非物质文化遗产博览会在重庆开幕，890余个代表性项目集中展出，涵盖传统技艺、表演艺术和民俗。
+
+### 中国空间站制备出已知最冷物质 温度降至九点七皮开尔文
+
+来源: qifengle.net.cn
+
+中国科学院透露，科研团队依托中国空间站超冷原子物理实验柜，把铷原子云等效温度降至9.7皮开尔文，可持续观测7秒。相关论文发表于《科学》。
